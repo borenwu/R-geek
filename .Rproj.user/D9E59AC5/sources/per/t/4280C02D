@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523282605109.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3800386705",
+    "id" : "4280C02D",
+    "lastKnownWriteTime" : 1523287929,
+    "last_content_update" : 1523287929082,
+    "path" : "D:/code/R/R-geek/capm-demo.R",
+    "project_path" : "capm-demo.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
